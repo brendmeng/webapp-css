@@ -96,26 +96,32 @@ li{
     display: none;
 }
 .container{
-    max-width: 85%;
+    max-width: 950px;
     margin: 0 auto;
+ 
 
   }
-  h1,h2,h3,h4
+  h1,h2,h3
   {
     margin-left:-15px;
       
 
 
   }
+  
 
   #aboutme
 {
    margin-top:10%;
+   
+  
+
 
 
 }   
 #name{
     text-align: center;
+    
 
 }
 
