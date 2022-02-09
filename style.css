@@ -121,6 +121,10 @@ li{
     
 
 }
+#back1, #back2,#back3
+{
+    margin-left:40px;
+}
 
    
   }
@@ -166,6 +170,10 @@ li{
     display: none;
 }
 
+#back1, #back2,#back3
+{
+    margin-left:40px;
+}
 
    
 
@@ -196,6 +204,10 @@ li{
     div.contact{
         margin-left:0px;
 
+    }
+    #back1, #back2,#back3
+    {
+        margin-left:40px;
     }
 
 }
@@ -231,3 +243,4 @@ li{
     font-size:50px;
     margin-left:10px;
 }
+
